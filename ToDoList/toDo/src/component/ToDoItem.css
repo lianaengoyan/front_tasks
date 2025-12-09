@@ -1,0 +1,78 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.todoItem {
+    padding: 20px;
+    margin: 10px;
+    background: skyblue;
+    border-radius: 18px;
+    transition: background 0.3s;
+}
+
+.todoItem.completed {
+    background: lightgreen;
+}
+
+.todoItem h3 {
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.todoItem h3.completed-text {
+    text-decoration: line-through;
+    color: #333;
+}
+
+.errStyle {
+    margin-left: 55px;
+}
+
+.todosLen {
+    font-size: 20px;
+    margin-left: 140px;
+    font-weight: 600; 
+    color: rgb(33, 30, 120);
+}
+
+.todoItem button {
+    margin: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    outline: none;
+    margin-left: 25px;
+}
+
+.todoItem button :hover {
+    opacity: 0.8;
+}
+
+.btn {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.addBtn {
+    background:rgb(219, 177, 227);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+.inputBtn {
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 7px;
+    border-radius: 5px;
+}
