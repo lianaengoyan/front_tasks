@@ -1,0 +1,998 @@
+{
+  "users": [
+    {
+      "id": "0c79",
+      "name": "Liana ",
+      "email": "liana@gmail.com",
+      "password": "liana123",
+      "favorites": [
+        {
+          "id": "4",
+          "name": "Tiramisu",
+          "price": 9,
+          "cuisine": "Italian",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.9,
+          "image": "/images/tiramisu.jpg"
+        },
+        {
+          "id": "22",
+          "name": "Ratatouille",
+          "price": 12,
+          "cuisine": "French",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/ratatouille.jpg"
+        },
+        {
+          "id": "205",
+          "name": "Black Tea",
+          "price": 3,
+          "cuisine": "Chinese",
+          "category": "Tea",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.5,
+          "image": "/images/black-tea.jpg"
+        },
+        {
+          "id": "215",
+          "name": "Coca Cola",
+          "price": 3,
+          "cuisine": "American",
+          "category": "Soda",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.2,
+          "image": "/images/coca-cola.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Sweet and Sour Pork",
+          "price": 15,
+          "cuisine": "Chinese",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.2,
+          "image": "/images/sweet-sour.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Miso Soup",
+          "price": 7,
+          "cuisine": "Japanese",
+          "category": "Soup",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.4,
+          "image": "/images/miso.jpg"
+        },
+        {
+          "id": "107",
+          "name": "Brownie",
+          "price": 6,
+          "cuisine": "Grill",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.6,
+          "image": "/images/brownie.jpg"
+        },
+        {
+          "id": "102",
+          "name": "Fruit Tart",
+          "price": 7,
+          "cuisine": "Italian",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/fruit-tart.jpg"
+        },
+        {
+          "id": "101",
+          "name": "Chocolate Cake",
+          "price": 8,
+          "cuisine": "Italian",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.9,
+          "image": "/images/chocolate-cake.jpg"
+        },
+        {
+          "id": "203",
+          "name": "Cappuccino",
+          "price": 4,
+          "cuisine": "Italian",
+          "category": "Coffee",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.5,
+          "image": "/images/cappuccino.jpg"
+        },
+        {
+          "id": "110",
+          "name": "Ice Cream Sundae",
+          "price": 7,
+          "cuisine": "American",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.6,
+          "image": "/images/ice-sundae.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Salmon Sushi",
+          "price": 20,
+          "cuisine": "Japanese",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/salmon-sushi.jpg"
+        },
+        {
+          "id": "1",
+          "name": "Margherita Pizza",
+          "price": 14,
+          "cuisine": "Italian",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.5,
+          "image": "/images/PIZZA_MARGHERITA.jpg"
+        }
+      ]
+    },
+    {
+      "id": "57d4",
+      "name": "Alice Smith",
+      "email": "alice@gmail.com",
+      "password": "alice123",
+      "favorites": [
+        {
+          "id": "2",
+          "name": "Truffle Pasta",
+          "price": 18,
+          "cuisine": "Italian",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.8,
+          "image": "/images/TRUFFLE_PASTA.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Lasagna Bolognese",
+          "price": 17,
+          "cuisine": "Italian",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.6,
+          "image": "/images/lasagna.jpg"
+        },
+        {
+          "id": "17",
+          "name": "Quinoa Salad",
+          "price": 13,
+          "cuisine": "Healthy",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.4,
+          "image": "/images/quinoa.jpg"
+        },
+        {
+          "id": "18",
+          "name": "Avocado Toast",
+          "price": 11,
+          "cuisine": "Healthy",
+          "category": "Breakfast",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.3,
+          "image": "/images/avocado.jpg"
+        }
+      ]
+    },
+    {
+      "id": "415b",
+      "name": "Bob Smith",
+      "email": "bob@gmail.com",
+      "password": "bob123"
+    },
+    {
+      "id": "1464",
+      "name": "James Kein",
+      "email": "james@gmail.com",
+      "password": "james123",
+      "favorites": [
+        {
+          "id": "2",
+          "name": "Truffle Pasta",
+          "price": 18,
+          "cuisine": "Italian",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.8,
+          "image": "/images/TRUFFLE_PASTA.jpg"
+        },
+        {
+          "id": "18",
+          "name": "Avocado Toast",
+          "price": 11,
+          "cuisine": "Healthy",
+          "category": "Breakfast",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.3,
+          "image": "/images/avocado.jpg"
+        },
+        {
+          "id": "21",
+          "name": "Tolma",
+          "price": 12,
+          "cuisine": "Healthy",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.4,
+          "image": "/images/tolma.png"
+        },
+        {
+          "id": "101",
+          "name": "Chocolate Cake",
+          "price": 8,
+          "cuisine": "Italian",
+          "category": "Dessert",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.9,
+          "image": "/images/chocolate-cake.jpg"
+        },
+        {
+          "id": "202",
+          "name": "Latte",
+          "price": 4,
+          "cuisine": "Italian",
+          "category": "Coffee",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.6,
+          "image": "/images/latte.jpg"
+        },
+        {
+          "id": "219",
+          "name": "Chamomile Tea",
+          "price": 3,
+          "cuisine": "Healthy",
+          "category": "Tea",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.5,
+          "image": "/images/chamomile.jpg"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "7cf6",
+      "userEmail": "alice@gmail.com",
+      "items": [
+        {
+          "id": "1",
+          "name": "Margherita Pizza",
+          "price": 14,
+          "cuisine": "Italian",
+          "category": "Main",
+          "vegetarian": true,
+          "spicy": false,
+          "rating": 4.5,
+          "image": "/images/PIZZA_MARGHERITA.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Salmon Sushi",
+          "price": 20,
+          "cuisine": "Japanese",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/salmon-sushi.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Salmon Sushi",
+          "price": 20,
+          "cuisine": "Japanese",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/salmon-sushi.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Salmon Sushi",
+          "price": 20,
+          "cuisine": "Japanese",
+          "category": "Main",
+          "vegetarian": false,
+          "spicy": false,
+          "rating": 4.7,
+          "image": "/images/salmon-sushi.jpg"
+        },
+        {
+          "id": "14",
+          "name": "BBQ Chicken Wings",
+          "price": 14,
+          "cuisine": "Grill",
+          "category": "Appetizer",
+          "vegetarian": false,
+          "spicy": true,
+          "rating": 4.5,
+          "image": "/images/wings.jpg"
+        },
+        {
+          "id": "14",
+          "name": "BBQ Chicken Wings",
+          "price": 14,
+          "cuisine": "Grill",
+          "category": "Appetizer",
+          "vegetarian": false,
+          "spicy": true,
+          "rating": 4.5,
+          "image": "/images/wings.jpg"
+        },
+        {
+          "id": "14",
+          "name": "BBQ Chicken Wings",
+          "price": 14,
+          "cuisine": "Grill",
+          "category": "Appetizer",
+          "vegetarian": false,
+          "spicy": true,
+          "rating": 4.5,
+          "image": "/images/wings.jpg"
+        }
+      ],
+      "total": 116,
+      "address": "Halabyan Street, 0036, Yerevan, Armenia",
+      "date": "3/6/2026, 2:09:33 AM"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "3650",
+      "name": "hi",
+      "email": "lkads@gmal",
+      "guests": 1,
+      "datetime": "2026-03-20T03:57"
+    },
+    {
+      "id": "2cdb",
+      "name": "Alice Smith",
+      "email": "alice@gmail.com",
+      "guests": 10,
+      "datetime": "2026-03-26T02:08"
+    },
+    {
+      "id": "7b5b",
+      "name": "James",
+      "email": "james@gmai.com",
+      "guests": 6,
+      "datetime": "2026-04-16T02:12"
+    }
+  ],
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "price": 14,
+      "cuisine": "Italian",
+      "category": "Main",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/PIZZA_MARGHERITA.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Truffle Pasta",
+      "price": 18,
+      "cuisine": "Italian",
+      "category": "Main",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.8,
+      "image": "/images/TRUFFLE_PASTA.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Lasagna Bolognese",
+      "price": 17,
+      "cuisine": "Italian",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/lasagna.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Tiramisu",
+      "price": 9,
+      "cuisine": "Italian",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.9,
+      "image": "/images/tiramisu.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Kung Pao Chicken",
+      "price": 16,
+      "cuisine": "Chinese",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": true,
+      "rating": 4.4,
+      "image": "/images/kungpao.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Sweet and Sour Pork",
+      "price": 15,
+      "cuisine": "Chinese",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.2,
+      "image": "/images/sweet-sour.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Vegetable Spring Rolls",
+      "price": 8,
+      "cuisine": "Chinese",
+      "category": "Appetizer",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.3,
+      "image": "/images/spring-rolls.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Hot and Sour Soup",
+      "price": 10,
+      "cuisine": "Chinese",
+      "category": "Soup",
+      "vegetarian": false,
+      "spicy": true,
+      "rating": 4.1,
+      "image": "/images/hot-sour.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Salmon Sushi",
+      "price": 20,
+      "cuisine": "Japanese",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/salmon-sushi.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Spicy Tuna Roll",
+      "price": 18,
+      "cuisine": "Japanese",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": true,
+      "rating": 4.6,
+      "image": "/images/tuna-roll.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Miso Soup",
+      "price": 7,
+      "cuisine": "Japanese",
+      "category": "Soup",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/miso.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Chicken Teriyaki",
+      "price": 19,
+      "cuisine": "Japanese",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/teriyaki.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Grilled Ribeye Steak",
+      "price": 28,
+      "cuisine": "Grill",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.8,
+      "image": "/images/ribeye.jpg"
+    },
+    {
+      "id": "14",
+      "name": "BBQ Chicken Wings",
+      "price": 14,
+      "cuisine": "Grill",
+      "category": "Appetizer",
+      "vegetarian": false,
+      "spicy": true,
+      "rating": 4.5,
+      "image": "/images/wings.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Grilled Vegetables",
+      "price": 12,
+      "cuisine": "Grill",
+      "category": "Side",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.3,
+      "image": "/images/grilled-veg.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Beef Burger",
+      "price": 16,
+      "cuisine": "Grill",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/burger.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Quinoa Salad",
+      "price": 13,
+      "cuisine": "Healthy",
+      "category": "Main",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/quinoa.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Avocado Toast",
+      "price": 11,
+      "cuisine": "Healthy",
+      "category": "Breakfast",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.3,
+      "image": "/images/avocado.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Grilled Salmon Bowl",
+      "price": 21,
+      "cuisine": "Healthy",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/salmon-bowl.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Borshch",
+      "price": 10,
+      "cuisine": "Healthy",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/borshch.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Tolma",
+      "price": 12,
+      "cuisine": "Healthy",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/tolma.png"
+    },
+    {
+      "id": "22",
+      "name": "Ratatouille",
+      "price": 12,
+      "cuisine": "French",
+      "category": "Main",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/ratatouille.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Beef Bourguignon",
+      "price": 18,
+      "cuisine": "French",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.8,
+      "image": "/images/beef_bourguignon.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Quiche Lorraine",
+      "price": 14,
+      "cuisine": "French",
+      "category": "Main",
+      "vegetarian": false,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/quiche_lorraine.jpg"
+    }
+  ],
+  "desserts": [
+    {
+      "id": "101",
+      "name": "Chocolate Cake",
+      "price": 8,
+      "cuisine": "Italian",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.9,
+      "image": "/images/chocolate-cake.jpg"
+    },
+    {
+      "id": "102",
+      "name": "Fruit Tart",
+      "price": 7,
+      "cuisine": "Italian",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/fruit-tart.jpg"
+    },
+    {
+      "id": "103",
+      "name": "Panna Cotta",
+      "price": 9,
+      "cuisine": "Italian",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.8,
+      "image": "/images/panna-cotta.jpg"
+    },
+    {
+      "id": "104",
+      "name": "Cheesecake",
+      "price": 8,
+      "cuisine": "Italian",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.8,
+      "image": "/images/cheesecake.jpg"
+    },
+    {
+      "id": "105",
+      "name": "Mochi",
+      "price": 6,
+      "cuisine": "Japanese",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/mochi.jpg"
+    },
+    {
+      "id": "106",
+      "name": "Matcha Ice Cream",
+      "price": 7,
+      "cuisine": "Japanese",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/matcha-ice.jpg"
+    },
+    {
+      "id": "107",
+      "name": "Brownie",
+      "price": 6,
+      "cuisine": "Grill",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/brownie.jpg"
+    },
+    {
+      "id": "108",
+      "name": "Fruit Salad",
+      "price": 5,
+      "cuisine": "Healthy",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/fruit-salad.jpg"
+    },
+    {
+      "id": "109",
+      "name": "Creme Brulee",
+      "price": 8,
+      "cuisine": "French",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/creme-brulee.jpg"
+    },
+    {
+      "id": "110",
+      "name": "Ice Cream Sundae",
+      "price": 7,
+      "cuisine": "American",
+      "category": "Dessert",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/ice-sundae.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "id": "201",
+      "name": "Espresso",
+      "price": 3,
+      "cuisine": "Italian",
+      "category": "Coffee",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/espresso.jpg"
+    },
+    {
+      "id": "202",
+      "name": "Latte",
+      "price": 4,
+      "cuisine": "Italian",
+      "category": "Coffee",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/latte.jpg"
+    },
+    {
+      "id": "203",
+      "name": "Cappuccino",
+      "price": 4,
+      "cuisine": "Italian",
+      "category": "Coffee",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/cappuccino.jpg"
+    },
+    {
+      "id": "204",
+      "name": "Green Tea",
+      "price": 3,
+      "cuisine": "Japanese",
+      "category": "Tea",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/green-tea.jpeg"
+    },
+    {
+      "id": "205",
+      "name": "Black Tea",
+      "price": 3,
+      "cuisine": "Chinese",
+      "category": "Tea",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/black-tea.jpg"
+    },
+    {
+      "id": "206",
+      "name": "Herbal Tea",
+      "price": 3,
+      "cuisine": "Healthy",
+      "category": "Tea",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/herbal-tea.jpg"
+    },
+    {
+      "id": "207",
+      "name": "Orange Juice",
+      "price": 4,
+      "cuisine": "Healthy",
+      "category": "Juice",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/orange-juice.jpg"
+    },
+    {
+      "id": "208",
+      "name": "Apple Juice",
+      "price": 4,
+      "cuisine": "Healthy",
+      "category": "Juice",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/apple-juice.jpg"
+    },
+    {
+      "id": "209",
+      "name": "Mango Smoothie",
+      "price": 5,
+      "cuisine": "Healthy",
+      "category": "Smoothie",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/mango-smoothie.jpg"
+    },
+    {
+      "id": "210",
+      "name": "Strawberry Smoothie",
+      "price": 5,
+      "cuisine": "Healthy",
+      "category": "Smoothie",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.7,
+      "image": "/images/strawberry-smoothie.jpg"
+    },
+    {
+      "id": "211",
+      "name": "Sake",
+      "price": 6,
+      "cuisine": "Japanese",
+      "category": "Alcohol",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/sake.jpg"
+    },
+    {
+      "id": "212",
+      "name": "Red Wine",
+      "price": 7,
+      "cuisine": "Italian",
+      "category": "Alcohol",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/red-wine.jpg"
+    },
+    {
+      "id": "213",
+      "name": "White Wine",
+      "price": 7,
+      "cuisine": "Italian",
+      "category": "Alcohol",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/white-wine.jpg"
+    },
+    {
+      "id": "214",
+      "name": "Beer",
+      "price": 5,
+      "cuisine": "Grill",
+      "category": "Alcohol",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/beer.jpeg"
+    },
+    {
+      "id": "215",
+      "name": "Coca Cola",
+      "price": 3,
+      "cuisine": "American",
+      "category": "Soda",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.2,
+      "image": "/images/coca-cola.jpg"
+    },
+    {
+      "id": "216",
+      "name": "Sprite",
+      "price": 3,
+      "cuisine": "American",
+      "category": "Soda",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.1,
+      "image": "/images/sprite.jpg"
+    },
+    {
+      "id": "217",
+      "name": "Mojito",
+      "price": 6,
+      "cuisine": "American",
+      "category": "Alcohol",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/mojito.jpg"
+    },
+    {
+      "id": "218",
+      "name": "Iced Coffee",
+      "price": 4,
+      "cuisine": "Italian",
+      "category": "Coffee",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.6,
+      "image": "/images/iced-coffee.jpg"
+    },
+    {
+      "id": "219",
+      "name": "Chamomile Tea",
+      "price": 3,
+      "cuisine": "Healthy",
+      "category": "Tea",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.5,
+      "image": "/images/chamomile.jpg"
+    },
+    {
+      "id": "220",
+      "name": "Lemonade",
+      "price": 3,
+      "cuisine": "American",
+      "category": "Juice",
+      "vegetarian": true,
+      "spicy": false,
+      "rating": 4.4,
+      "image": "/images/lemonade.jpg"
+    }
+  ]
+}
