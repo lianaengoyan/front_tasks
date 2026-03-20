@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import { useOrders } from "../context/OrdersContext";
 import Link from "next/link";
 
-// Импортируем компоненты
 import { StatusNotification } from "../components/StatusNotification";
 import { ConfirmModal } from "../components/ConfirmModal";
 import { CartTab } from "../components/CartTab";
@@ -22,7 +21,6 @@ export default function OrderPage() {
 
     const totalPrice = orders.reduce((sum, item) => sum + item.price, 0);
 
-    // Модальное окно анимация
     useEffect(() => {
         if (confirmAction) {
             const timeout = setTimeout(() => setShowModalAnim(true), 10);
